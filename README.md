@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/hero.jpg" alt="The Seven Star Build by Ekai Stone" width="100%"></p>
 
 <h1 align="center">The Seven Star Build</h1>
-<p align="center"><b>Your whole business, rebuilt around AI agents, on accounts you own.</b></p>
+<p align="center"><b>Turn your business into an AI-first company.</b></p>
 
 <p align="center">
   <a href="https://ekaistone.com/seven-star/build"><img src="https://img.shields.io/badge/See_the_Build-ekaistone.com-A4ED07?style=for-the-badge&labelColor=04070D" alt="See the Build"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-A custom AI system, built by my AI agents for your business: your site, your client portal, agents that run your delivery, your offers and checkout, your email and CRM, your Meta ads with Signal Engine tracking, and the operations that keep it all running. Everything is installed on accounts you own. Live in 7 days.
+The Seven Star Build turns your business into an AI-first company. My AI agents build a custom system for your business: your site, your client portal, agents that run your delivery, your offers and checkout, your email and CRM, your Meta ads with Signal Engine tracking, and the operations that keep it all running. Everything is installed on accounts you own. Live in 7 days.
 
 ### Who it's for
 
